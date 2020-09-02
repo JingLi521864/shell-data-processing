@@ -1,7 +1,7 @@
 # shell-data-processing
 
 ## Story
-- This is an Tragedy of [Hamlet](http://shakespeare.mit.edu/hamlet/full.html). The story write by [Mr. William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare).
+- This is an Tragedy of [Hamlet](http://shakespeare.mit.edu/hamlet/full.html). The story wrote by [Mr. William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare).
 
 ## Process Text Data
 - Now we'll use some Bash commands to process the text.
